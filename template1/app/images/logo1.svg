@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="866px" height="940px" viewBox="0 0 866 940" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>logo1 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="logo1-2" sketch:type="MSLayerGroup" transform="translate(-45.000000, -338.000000)" stroke-width="0.5">
+            <text id="G" stroke="#EFEFEF" fill="#FB4900" sketch:type="MSTextLayer" font-family="Montserrat Alternates" font-size="1300" font-weight="260">
+                <tspan x="0.25" y="1258" fill="#04075B">G</tspan>
+            </text>
+            <text id="O" stroke-opacity="0.396427763" stroke="#4A4A4A" fill="#EF7344" sketch:type="MSTextLayer" font-family="Montserrat Alternates" font-size="900" font-weight="normal">
+                <tspan x="167" y="1118" fill="#E9E6E6">O</tspan>
+            </text>
+            <text id="S" stroke="#868686" fill="#DE9E8A" sketch:type="MSTextLayer" font-family="Avenir Next" font-size="500" font-weight="normal">
+                <tspan x="394" y="982" fill="#E9E6E6">S</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
